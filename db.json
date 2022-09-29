@@ -1,0 +1,264 @@
+{"clients":[
+  {
+            
+    "empresa": "proyecto",
+    "telefono": "2213554594",
+    "nombre": "eduardo",
+    "email": "eduardo@email.com",
+    "pais": "ucrania",
+    "ciudad": "bongladesh",
+    "direccion": "calle 1234",
+    "cumpleaños": "15/08/1975",
+    "metododepago": "efectivo",
+    "metododeentrega": "retiro en el local"
+},
+{
+    
+    "empresa": "lula",
+    "telefono": "25651651",
+    "nombre": "Luis",
+    "email": "Luis@email.com",
+    "pais": "argentina",
+    "ciudad": "la plata",
+    "direccion": "bolivar 425",
+    "cumpleaños": "15/08/2000",
+    "metododepago": "tarjeta",
+    "metododeentrega": "retiro en el local"
+},
+{
+    
+    "empresa": "redpoint",
+    "telefono": "4654651",
+    "nombre": "emanuel ",
+    "email": "emanuel@email.com",
+    "pais": "bolivia",
+    "ciudad": "quito",
+    "direccion": "calle 2",
+    "cumpleaños": "15/08/1875",
+    "metododepago": "efectivo",
+    "metododeentrega": "almacen"
+},
+{
+    
+    "empresa": "sonic ",
+    "telefono": "2825154156",
+    "nombre": "alexis",
+    "email": "alexis@email.com",
+    "pais": "españa",
+    "ciudad": "barcelona",
+    "direccion": " 381 fabela ",
+    "cumpleaños": "15/08/1980",
+    "metododepago": "efectivo",
+    "metododeentrega": "almacen"
+},
+{
+   
+    "empresa": "redragon ",
+    "telefono": "2132164651",
+    "nombre": "gaston",
+    "email": "gaston@email.com",
+    "pais": "argentina",
+    "ciudad": "buenos aires",
+    "direccion": "calle 15 av libertador",
+    "cumpleaños": "15/08/2001",
+    "metododepago": "efectivo",
+    "metododeentrega": "almacen"
+},
+{
+    "empresa": "hyperx",
+    "telefono": "516516516",
+    "nombre": "enzo",
+    "email": "enzo@email.com",
+    "pais": "alemania",
+    "ciudad": "bongladesh",
+    "direccion": "N238 av este",
+    "cumpleaños": "15/08/1995",
+    "metododepago": "efectivo",
+    "metododeentrega": "local"
+},
+{
+   
+    "empresa": "genius",
+    "telefono": "516516516",
+    "nombre": "Juan ",
+    "email": "Juan@email.com",
+    "pais": "bolivia",
+    "ciudad": "quito",
+    "direccion": "av norte 1234",
+    "cumpleaños": "15/08/1956",
+    "metododepago": "efectivo",
+    "metododeentrega": "local"
+},
+{
+  
+    "empresa": "constructora",
+    "telefono": "2215496480",
+    "nombre": "javier",
+    "email": "javier@email.com",
+    "pais": "peru",
+    "ciudad": "lima",
+    "direccion": "av oueste 1234",
+    "cumpleaños": "15/08/2000",
+    "metododepago": "efectivo",
+    "metododeentrega": "local"
+},
+{
+    
+    "empresa": "candddela",
+    "telefono": "3213216516",
+    "nombre": "lucia",
+    "email": "lucia@email.com",
+    "pais": "argentina",
+    "ciudad": "la plata",
+    "direccion": "calle 11 n265",
+    "cumpleaños": "15/08/1975",
+    "metododepago": "tarjeta",
+    "metododeentrega": "local"
+}
+,
+{
+   
+    "empresa": "redragoxxn",
+    "telefono": "2132164651",
+    "nombre": "gaston",
+    "email": "gaston@email.com",
+    "pais": "argentina",
+    "ciudad": "buenos aires",
+    "direccion": "calle 15 av libertador",
+    "cumpleaños": "15/08/2001",
+    "metododepago": "efectivo",
+    "metododeentrega": "almacen"
+},
+{
+    "empresa": "hyperaax",
+    "telefono": "516516516",
+    "nombre": "enzo",
+    "email": "enzo@email.com",
+    "pais": "alemania",
+    "ciudad": "bongladesh",
+    "direccion": "N238 av este",
+    "cumpleaños": "15/08/1995",
+    "metododepago": "efectivo",
+    "metododeentrega": "local"
+},
+{
+   
+    "empresa": "geni4us",
+    "telefono": "516516516",
+    "nombre": "Juan ",
+    "email": "Juan@email.com",
+    "pais": "bolivia",
+    "ciudad": "quito",
+    "direccion": "av norte 1234",
+    "cumpleaños": "15/08/1956",
+    "metododepago": "efectivo",
+    "metododeentrega": "local"
+},
+{
+  
+    "empresa": "espacia3dora",
+    "telefono": "2215496480",
+    "nombre": "javier",
+    "email": "javier@email.com",
+    "pais": "peru",
+    "ciudad": "lima",
+    "direccion": "av oueste 1234",
+    "cumpleaños": "15/08/2000",
+    "metododepago": "efectivo",
+    "metododeentrega": "local"
+},
+{
+    
+    "empresa": "candela1",
+    "telefono": "3213216516",
+    "nombre": "lucia",
+    "email": "lucia@email.com",
+    "pais": "argentina",
+    "ciudad": "la plata",
+    "direccion": "calle 11 n265",
+    "cumpleaños": "15/08/1975",
+    "metododepago": "tarjeta",
+    "metododeentrega": "local"
+}
+,
+{
+   
+    "empresa": "redrago1n",
+    "telefono": "2132164651",
+    "nombre": "gaston",
+    "email": "gaston@email.com",
+    "pais": "argentina",
+    "ciudad": "buenos aires",
+    "direccion": "calle 15 av libertador",
+    "cumpleaños": "15/08/2001",
+    "metododepago": "efectivo",
+    "metododeentrega": "almacen"
+},
+{
+    "empresa": "hyperx1",
+    "telefono": "516516516",
+    "nombre": "enzo",
+    "email": "enzo@email.com",
+    "pais": "alemania",
+    "ciudad": "bongladesh",
+    "direccion": "N238 av este",
+    "cumpleaños": "15/08/1995",
+    "metododepago": "efectivo",
+    "metododeentrega": "local"
+},
+{
+   
+    "empresa": "genius1",
+    "telefono": "516516516",
+    "nombre": "Juan ",
+    "email": "Juan@email.com",
+    "pais": "bolivia",
+    "ciudad": "quito",
+    "direccion": "av norte 1234",
+    "cumpleaños": "15/08/1956",
+    "metododepago": "efectivo",
+    "metododeentrega": "local"
+},
+{
+  
+    "empresa": "espaciadora1",
+    "telefono": "2215496480",
+    "nombre": "javier",
+    "email": "javier@email.com",
+    "pais": "peru",
+    "ciudad": "lima",
+    "direccion": "av oueste 1234",
+    "cumpleaños": "15/08/2000",
+    "metododepago": "efectivo",
+    "metododeentrega": "local"
+},
+{
+    
+    "empresa": "candela1",
+    "telefono": "3213216516",
+    "nombre": "lucia",
+    "email": "lucia@email.com",
+    "pais": "argentina",
+    "ciudad": "la plata",
+    "direccion": "calle 11 n265",
+    "cumpleaños": "15/08/1975",
+    "metododepago": "tarjeta",
+    "metododeentrega": "local"
+}
+,
+{
+    
+    "empresa": "avioneshoy",
+    "telefono": "3213216516",
+    "nombre": "nicolay",
+    "email": "nicolay@email.com",
+    "pais": "argentina",
+    "ciudad": "la plata",
+    "direccion": "calle 11 n265",
+    "cumpleaños": "15/08/1975",
+    "metododepago": "tarjeta",
+    "metododeentrega": "local"
+}
+
+]
+}
