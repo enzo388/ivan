@@ -1,17 +1,16 @@
-<h1>TuGerenteApp</h1>
+Desarrollar usando reactjs un componente de tipo dropdown (o combobox)
 
-<a href="https://i.ibb.co/56L0dB9/tu-gerente-app.png"><img src="https://i.ibb.co/56L0dB9/tu-gerente-app.png" alt="aaaaaaaaaaaaaaaaaaaa-dsdsdsdasdsad" border="0"></a>
+- Al desplegarlo consultará a un servicio de firebase buscando coincidencias según el texto escrito (o sin filtro, en caso de que no se haya escrito texto).
+- El modelo en firebase consistirá de los siguientes atributos:
+1. nombre
+2. razón social
+3. nit
+4. teléfono
+5. código
+- Debe solicitar resultados paginados de 20 en 20, y solo deberá traer la siguiente página cuando se esté scrolleando cerca al final de la lista actual de resultados.
+- Debe permitir parametrizar por qué atributo del objeto se buscará. La parametrización se debe hacer por código, no en tiempo de ejecución
+- El primer resultado del dropdown debe ser una opción fija que al darle click levante un pequeño pop-up, parte del componente, que permita agregar un nuevo objeto con el texto ya ingresado, pero permitiendo editarlo antes de guardar también.
+- El proyecto debe correrse en un contenedor de docker
+- Adjuntar también dentro del repositorio, capturas de pantalla de la solución funcionando
 
-requisitos: 
-<br></br>
-npm i desde la carpeta tugerenteapp
-<br></br>
-npm install -g json-server desde la carpeta tugerenteapp
-<br></br>
-<br></br>
-luego: 
-<br></br>
-npx json-server --watch db.json --port 3004
-<br></br>
-npm start 
-<br></br>
+tenemos 48 hrs para poder desarrollar el challenge, si tenes alguna duda puedo colaborarte
